@@ -1,0 +1,13 @@
+body{
+    background: darkseagreen;
+    margin: 0;
+}
+header{
+    background:wheat;
+}
+header h1{
+    margin:0;
+}
+div.post{
+    background: white;
+}
