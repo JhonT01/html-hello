@@ -25,7 +25,14 @@ div.container{
     width: 600px;
     margin: auto;
 }
-span{
-    color:grey;
-    text-align: end;
+div.post-header div:first-child {
+    display: inline-block;
+    width: 80%;
+    background: blue;
+
+}
+div.post-header div:last-child {
+    display:inline-block;
+    width: 18%;
+    background: blueviolet;
 }
